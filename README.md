@@ -1,7 +1,7 @@
 # Exploring-the-Effects-of-Symbol-Tuning-on-In-Context-Learning
 The codebase for the master's thesis work: "Exploring the Effects of Symbol Tuning on In-Context Learning."
 
-# Reproducing and Extending the Study
+## Reproducing and Extending the Study
 
 This work aims to reproduce and extend the study: [arXiv:2305.08298](https://arxiv.org/abs/2305.08298).
 
