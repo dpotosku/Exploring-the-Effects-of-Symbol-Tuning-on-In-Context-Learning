@@ -33,6 +33,6 @@ Before starting with the code, ensure that you have completed the following step
 
 6. **Package Installation**
    - You have installed the necessary packages according to the `requirements.txt` file.
-   - If you need more information about the Python environment used, please open the file environment.yaml.
+   - If you need more information about the Python environment used, please open the file `environment.yaml`.
 
 Once all these steps are completed, you are ready to proceed with the code!
